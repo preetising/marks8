@@ -4,7 +4,6 @@ import "./index";
 
 const emojiDictionary={
 
-  "💩": "Pile of Poo",
   "🥰": "Smiling Face with Hearts",
   "🤩": "Star-Struck",
   "😘": "Face Blowing a Kiss",
